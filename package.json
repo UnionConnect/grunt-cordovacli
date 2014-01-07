@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "cordova": "~3.2"
+    "cordova": "git://github.com/morrissinger/grunt-cordovacli.git"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.2",
